@@ -1,2 +1,2 @@
 # Descripción
-Proyecto de una veterinaria grande
+Proyecto de una veterinaria grandota
