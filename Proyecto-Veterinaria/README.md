@@ -1,2 +1,2 @@
 # Descripción
-Proyecto de una veterinaria grandota
+Proyecto de una veterinaria horriblemente pobrre
